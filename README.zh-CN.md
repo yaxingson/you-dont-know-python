@@ -1,4 +1,4 @@
-# You Don't Know Python
+# 你不知道的Python
 
 [英文](./README.md) &nbsp; | &nbsp; 简体中文
 
