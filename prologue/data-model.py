@@ -1,6 +1,6 @@
 """
 >>> version = sys.version_info
->>> '{}.{}.{}'.format(version.major, version.minor, version.micro)
+>>> '{0.major}.{0.minor}.{0.micro}'.format(version)
 '3.8.2'
 
 """
