@@ -1,4 +1,7 @@
 # Byte-compiled / optimized / DLL files
+config.json
+httpbin-get.json
+sqlite_test
 __pycache__/
 *.py[cod]
 *$py.class
