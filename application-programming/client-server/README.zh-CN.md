@@ -1,6 +1,6 @@
 # Web客户端和服务器
 
-基本概念:
+相关概念:
 
 - WWW(World Wide Web): 分布式超文本系统
 - SSL(Secure Socket Layer): 安全套接字层

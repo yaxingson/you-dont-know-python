@@ -4,7 +4,7 @@
     "Accept-Encoding": "identity", 
     "Host": "httpbin.org", 
     "User-Agent": "Python-urllib/3.8", 
-    "X-Amzn-Trace-Id": "Root=1-677b5439-0ac7ab4958e7588a418b0de8"
+    "X-Amzn-Trace-Id": "Root=1-677b6e55-535293a741e23b1549acdd68"
   }, 
   "origin": "111.32.72.39", 
   "url": "https://httpbin.org/get"
