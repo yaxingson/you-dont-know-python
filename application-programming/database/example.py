@@ -1,8 +1,10 @@
 import unittest
 import sqlite3
+import sqlobject
 from pymysql import apilevel, threadsafety, paramstyle, connect, Warning, \
   InterfaceError, DatabaseError, OperationalError, Date, Timestamp, STRING
 from json import load
+from sqlalchemy import Column
 
 class TestDatabase(unittest.TestCase):
   def test_db_api(self):
@@ -62,3 +64,11 @@ class TestDatabase(unittest.TestCase):
 
       cur.close()
       conn.commit()
+
+  def test_sqlalchemy(self):
+    pass
+  
+  def test_sqlobject(self):
+    pass
+
+  
