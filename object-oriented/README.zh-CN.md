@@ -1,30 +1,10 @@
 # 面向对象惯用法
 
-## 对象引用、可变性和垃圾回收
+## 目录
 
-## 符合Python风格的对象
-
-> 鸭子类型
-
-格式微语言
-
-## 序列的修改、散列和切片
-
-## 接口: 从协议到抽象基类
-
-## 继承的优缺点
-
-## 正确重载运算符
-
-运算符重载: 用户自定义对象支持**中缀运算符**或一元运算符
-
-Python对运算符重载的限制:
-
-- 不能重载内置类型的运算符
-- 不能新建运算符，只能重载语言现有的
-- 某些运算符不能重载，例如is、and、or和not
-
-一元运算符: 一元取负算术运算符(-)、一元取正算术运算符(+)和按位取反运算符(~)
-
-> 实现一元运算符和中缀运算符的特殊方法一定不能修改操作数，运算符表达式的期待结果是新对象
-
+- [对象引用、可变性和垃圾回收](./object-references-mutability-and-recycling/README.zh-CN.md)
+- [符合Python风格的对象](./pythonic-object/README.zh-CN.md)
+- [序列的修改、散列和切片](./sequence-hacking-hashing-and-slicing/README.zh-CN.md)
+- [接口:从协议到抽象基类](./interfaces/README.zh-CN.md)
+- [继承的优缺点](./inheritance/README.zh-CN.md)
+- [正确重载运算符](./operator-overloading/README.zh-CN.md)
