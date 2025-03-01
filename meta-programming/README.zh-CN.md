@@ -1,6 +1,6 @@
 # 元编程
 
-## 目录
+## 章节
 
 - [动态属性和特性](./dynamic-attributes-and-properties/README.zh-CN.md)
 - [属性描述符](./attribute-descriptors/README.zh-CN.md)

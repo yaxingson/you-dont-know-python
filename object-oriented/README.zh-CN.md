@@ -1,6 +1,6 @@
 # 面向对象惯用法
 
-## 目录
+## 章节
 
 - [对象引用、可变性和垃圾回收](./object-references-mutability-and-recycling/README.zh-CN.md)
 - [符合Python风格的对象](./pythonic-object/README.zh-CN.md)

@@ -1,6 +1,6 @@
 # 控制流程
 
-## 目录
+## 章节
 
 - [可迭代对象、迭代器和生成器](./iterables-iterators-and-generators/README.zh-CN.md)
 - [上下文管理器和else块](./context-managers-and-else-blocks/README.zh-CN.md)
