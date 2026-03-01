@@ -4,4 +4,14 @@ version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "openai>=2.15.0",
+    "pycairo>=1.28.0",
+    "pygi>=1.0.3",
+    "pymongo>=4.15.3",
+    "pymysql>=1.1.2",
+    "python-dotenv>=1.1.1",
+    "sqlalchemy>=2.0.44",
+    "sqlobject>=3.13.0",
+    "wxpython>=4.2.3"
+]
